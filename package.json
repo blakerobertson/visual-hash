@@ -1,0 +1,22 @@
+{
+  "name": "visual-hash",
+  "version": "1.0.0",
+  "description": "A library for hashing datasets into small images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "visual",
+    "dataset",
+    "image",
+    "hash"
+  ],
+  "author": "blaquer@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "hilbert":"^2.0.0",
+    "jimp":"^0.2.28",
+    "csv-parse":"^2.2.0"
+  }
+}
